@@ -1,4 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm TANU PRIYA</h1>
+<h3 align="center">A passionate Civil Engineer Graduate from INDIA.</h3>
+
+- 🔭 I’m currently working on **GEOTECH**
+
+- 💬 Ask me about **AUTOCAD**
+
+- 📫 How to reach me **priyatanu404@gmail.com**
+
+- ⚡ Fun fact **I am easily coachable person and creative as well.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 <!--
 **tanu856/tanu856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
